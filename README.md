@@ -2,7 +2,7 @@
 - 👀 I’m interested in everything and anything to do with AI,Machine Learning and Data
 - 🌱 I’m currently learning all umbrellas of AI
 - 💞️ I’m looking to collaborate on projects which would change the world
-- 📫 How to reach me ? Drop a message here !
+- 📫 How to reach me ? Drop a message here!
 
 <!---
 naevinabeya/naevinabeya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
